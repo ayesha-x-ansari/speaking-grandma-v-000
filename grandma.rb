@@ -19,7 +19,7 @@ def speak_to_grandma (hello_string)
   elsif hello_string ==  hello_string.upcase
       puts hello_string
       puts "222222222"
-      return "NO, NOT SINCE 1938"
+      return "NO, NOT SINCE 1938!"
   else
     puts "3333333"
     return "HUH?! SPEAK UP, SONNY!"
