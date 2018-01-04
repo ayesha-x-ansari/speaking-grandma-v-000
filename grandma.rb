@@ -25,6 +25,6 @@ def speak_to_grandma (hello_string)
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
-hello_string  = "I  GRANDMA!"
+hello_string  = "I LOVE YOU GRANDMA!"
 
 speak_to_grandma (hello_string)
