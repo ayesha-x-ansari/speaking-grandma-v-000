@@ -14,17 +14,13 @@
 # 'I LOVE YOU TOO PUMPKIN'
 def speak_to_grandma (hello_string)
   if hello_string  == "I LOVE YOU GRANDMA!"
-    puts "111111111111"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif hello_string ==  hello_string.upcase
-      puts hello_string
-      puts "222222222"
-      return "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
   else
-    puts "3333333"
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
-hello_string  = "I LOVE YOU GRANDMA!"
 
-speak_to_grandma (hello_string)
+#hello_string  = "I LOVE YOU GRANDMA!"
+#speak_to_grandma (hello_string)
